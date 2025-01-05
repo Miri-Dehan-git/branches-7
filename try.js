@@ -6,6 +6,13 @@ const b=()=>{
    
     alert("6") 
 }
+
 const e=()=>{
 console.log("hei")
+
+const c=()=>{
+    return 5
+   
+    alert("6") 
+
 }
